@@ -73,7 +73,7 @@ export default {
   },
   "title": "Egret Feather",
   "tagline": "Egret Feather Docs",
-  "url": "https://runinspring.github.io/testdoc/",
+  "url": "https://runinspring.github.io",
   "baseUrl": "/testdoc/",
   "favicon": "img/favicon.ico",
   "organizationName": "runinspring",

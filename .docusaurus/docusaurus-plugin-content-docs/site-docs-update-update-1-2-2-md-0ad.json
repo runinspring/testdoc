@@ -1,0 +1,12 @@
+{
+  "id": "update/update1.2.2",
+  "title": "Egret Feather 1.2.2",
+  "description": "Egret Feather 1.2.2",
+  "source": "@site/docs/update/update1.2.2.md",
+  "permalink": "/testdoc/docs/update/update1.2.2",
+  "sidebar": "someSidebar",
+  "next": {
+    "title": "使用手册",
+    "permalink": "/testdoc/docs/manual/manual"
+  }
+}

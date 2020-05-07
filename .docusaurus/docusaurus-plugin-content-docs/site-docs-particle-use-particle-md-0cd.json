@@ -1,0 +1,16 @@
+{
+  "id": "particle/useParticle",
+  "title": "使用粒子系统",
+  "description": "## 初始化",
+  "source": "@site/docs/particle/useParticle.md",
+  "permalink": "/testdoc/docs/particle/useParticle",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "粒子系统简介",
+    "permalink": "/testdoc/docs/particle/introduction"
+  },
+  "next": {
+    "title": "粒子系统自定义扩展",
+    "permalink": "/testdoc/docs/particle/ParticleExtensions"
+  }
+}

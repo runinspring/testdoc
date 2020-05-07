@@ -1,11 +1,11 @@
 module.exports = {
   title: 'Egret Feather',
   tagline: 'Egret Feather Docs',
-  url: 'https://docs.egret.com/feather',
-  baseUrl: '/feather/',
+  url: 'https://runinspring.github.io/testdoc/',
+  baseUrl: '/testdoc/',
   favicon: 'img/favicon.ico',
-  organizationName: 'Egret Technology', // Usually your GitHub org/user name.
-  projectName: 'Egret Engine', // Usually your repo name.
+  organizationName: 'runinspring', // Usually your GitHub org/user name.
+  projectName: 'testdoc', // Usually your repo name.
   themeConfig: {
     disableDarkMode: true,//关闭黑暗模式的开关
     navbar: {

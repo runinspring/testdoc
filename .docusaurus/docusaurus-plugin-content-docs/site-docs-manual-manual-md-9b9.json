@@ -1,0 +1,16 @@
+{
+  "id": "manual/manual",
+  "title": "使用手册",
+  "description": "## 简介\r",
+  "source": "@site/docs/manual/manual.md",
+  "permalink": "/testdoc/docs/manual/manual",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Egret Feather 1.2.2",
+    "permalink": "/testdoc/docs/update/update1.2.2"
+  },
+  "next": {
+    "title": "粒子系统简介",
+    "permalink": "/testdoc/docs/particle/introduction"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "api/particle.ParticleSystem",
+  "title": "particle.ParticleSystem",
+  "description": "**包** &nbsp;&nbsp; particle",
+  "source": "@site/docs/api/particle.ParticleSystem.md",
+  "permalink": "/testdoc/docs/api/particle.ParticleSystem",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "particle.Particle",
+    "permalink": "/testdoc/docs/api/particle.Particle"
+  },
+  "next": {
+    "title": "global.Types",
+    "permalink": "/testdoc/docs/api/global.Types"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "particle/GravityParticleSystem",
+  "title": "GravityParticleSystem",
+  "description": "## 概述",
+  "source": "@site/docs/particle/GravityParticleSystem.md",
+  "permalink": "/testdoc/docs/particle/GravityParticleSystem",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "ParticleSystem",
+    "permalink": "/testdoc/docs/particle/ParticleSystem"
+  },
+  "next": {
+    "title": "particle.GravityParticle",
+    "permalink": "/testdoc/docs/api/particle.GravityParticle"
+  }
+}

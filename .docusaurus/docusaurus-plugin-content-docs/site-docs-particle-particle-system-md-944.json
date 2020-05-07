@@ -1,0 +1,16 @@
+{
+  "id": "particle/ParticleSystem",
+  "title": "ParticleSystem",
+  "description": "## 概述",
+  "source": "@site/docs/particle/ParticleSystem.md",
+  "permalink": "/testdoc/docs/particle/ParticleSystem",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "粒子系统自定义扩展",
+    "permalink": "/testdoc/docs/particle/ParticleExtensions"
+  },
+  "next": {
+    "title": "GravityParticleSystem",
+    "permalink": "/testdoc/docs/particle/GravityParticleSystem"
+  }
+}

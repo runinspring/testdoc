@@ -1,0 +1,12 @@
+{
+  "id": "api/global.Types",
+  "title": "global.Types",
+  "description": "**包** &nbsp;&nbsp; global",
+  "source": "@site/docs/api/global.Types.md",
+  "permalink": "/testdoc/docs/api/global.Types",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "particle.ParticleSystem",
+    "permalink": "/testdoc/docs/api/particle.ParticleSystem"
+  }
+}

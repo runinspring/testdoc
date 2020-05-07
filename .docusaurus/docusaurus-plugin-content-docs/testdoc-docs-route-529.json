@@ -1,0 +1,104 @@
+{
+  "docsSidebars": {
+    "someSidebar": [
+      {
+        "type": "category",
+        "label": "更新详情",
+        "items": [
+          {
+            "type": "link",
+            "label": "Egret Feather 1.2.2",
+            "href": "/testdoc/docs/update/update1.2.2"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Feather 使用手册",
+        "items": [
+          {
+            "type": "link",
+            "label": "使用手册",
+            "href": "/testdoc/docs/manual/manual"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "粒子库使用手册",
+        "items": [
+          {
+            "type": "link",
+            "label": "粒子系统简介",
+            "href": "/testdoc/docs/particle/introduction"
+          },
+          {
+            "type": "link",
+            "label": "使用粒子系统",
+            "href": "/testdoc/docs/particle/useParticle"
+          },
+          {
+            "type": "link",
+            "label": "粒子系统自定义扩展",
+            "href": "/testdoc/docs/particle/ParticleExtensions"
+          },
+          {
+            "type": "link",
+            "label": "ParticleSystem",
+            "href": "/testdoc/docs/particle/ParticleSystem"
+          },
+          {
+            "type": "link",
+            "label": "GravityParticleSystem",
+            "href": "/testdoc/docs/particle/GravityParticleSystem"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "粒子库 API",
+        "items": [
+          {
+            "type": "link",
+            "label": "particle.GravityParticle",
+            "href": "/testdoc/docs/api/particle.GravityParticle"
+          },
+          {
+            "type": "link",
+            "label": "particle.GravityParticleSystem",
+            "href": "/testdoc/docs/api/particle.GravityParticleSystem"
+          },
+          {
+            "type": "link",
+            "label": "particle.Particle",
+            "href": "/testdoc/docs/api/particle.Particle"
+          },
+          {
+            "type": "link",
+            "label": "particle.ParticleSystem",
+            "href": "/testdoc/docs/api/particle.ParticleSystem"
+          },
+          {
+            "type": "link",
+            "label": "global.Types",
+            "href": "/testdoc/docs/api/global.Types"
+          }
+        ]
+      }
+    ]
+  },
+  "permalinkToSidebar": {
+    "/testdoc/docs/api/global.Types": "someSidebar",
+    "/testdoc/docs/api/particle.GravityParticle": "someSidebar",
+    "/testdoc/docs/api/particle.GravityParticleSystem": "someSidebar",
+    "/testdoc/docs/api/particle.Particle": "someSidebar",
+    "/testdoc/docs/api/particle.ParticleSystem": "someSidebar",
+    "/testdoc/docs/manual/manual": "someSidebar",
+    "/testdoc/docs/particle/GravityParticleSystem": "someSidebar",
+    "/testdoc/docs/particle/ParticleExtensions": "someSidebar",
+    "/testdoc/docs/particle/ParticleSystem": "someSidebar",
+    "/testdoc/docs/particle/introduction": "someSidebar",
+    "/testdoc/docs/particle/useParticle": "someSidebar",
+    "/testdoc/docs/update/update1.2.2": "someSidebar"
+  }
+}
